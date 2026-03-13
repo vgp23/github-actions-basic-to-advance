@@ -1,4 +1,4 @@
-# GitHub Actions Basic to Advanced
+# GitHub Actions Basic to Advance
 
 This repository contains three practical examples of GitHub Actions workflows—ranging from basic to advanced—designed to help you learn how to create automation pipelines using different GitHub Actions features.
 

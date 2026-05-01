@@ -1,0 +1,13 @@
+name: Call Other Team's Composite Action
+
+on: push
+
+jobs: 
+  run-other-teams-stuff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Other Team's Action
+        uses: Saptarshi666/github-actions-basic-to-advance/.github/actions/composite/action.yaml

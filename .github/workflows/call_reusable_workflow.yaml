@@ -6,4 +6,4 @@ jobs:
   call-workflow-gerelmaa:
     uses: bgerelmaa/github-actions-basic-to-advance/.github/workflows/reusable-workflow.yaml@main
   call-workflow-saptarshi:
-    uses: Saptarshi666/github-actions-basic-to-advance/.github/workflows/resusableSaptarshi.yaml@main
+    uses: Saptarshi666/github-actions-basic-to-advance/.github/workflows/mj.yml@main

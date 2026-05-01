@@ -83,4 +83,6 @@ Sophisticated workflows combining:
 4. Check the `docs/Osama_GitHub_Actions.pdf` for comprehensive documentation
 
 5. A change
+
+6. Another one
 ---

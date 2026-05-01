@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Other Team's Action
-        uses: Saptarshi666/github-actions-basic-to-advance/.github/actions/composite/action.yaml@main
+        uses: Saptarshi666/github-actions-basic-to-advance/.github/actions/composite@main

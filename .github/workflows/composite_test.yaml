@@ -9,5 +9,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Run Other Team's Action
+      - name: Saptarshi's Action
         uses: Saptarshi666/github-actions-basic-to-advance/.github/actions/composite@main
+
+      - name: Kourosh's Action
+        uses: kooroshsajadi/github-actions-basic-to-advance/.github/actions/composite@main
+      
+      - name: Gerelmaa's Action
+        uses: bgerelmaa/github-actions-basic-to-advance/.github/actions/composite@main

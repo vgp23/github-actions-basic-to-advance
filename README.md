@@ -86,5 +86,4 @@ Sophisticated workflows combining:
 
 6. Another one
 
-7. another
 ---
